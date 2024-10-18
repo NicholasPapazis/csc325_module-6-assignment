@@ -1,0 +1,16 @@
+#leftSection {
+    -fx-background-color: #d37804;
+}
+
+#rightSection {
+    -fx-background-color: #7ed104;
+}
+
+#menuBar {
+    -fx-background-color: #9C4500FF;
+}
+
+#readButton, #writeButton, #switchroot {
+    -fx-background-color: #d37804;
+}
+

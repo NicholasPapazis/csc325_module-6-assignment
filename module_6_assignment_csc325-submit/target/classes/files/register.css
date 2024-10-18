@@ -1,0 +1,32 @@
+#registerPage {
+    -fx-background-color: rgba(186, 231, 255, 0.27);
+}
+
+#emailInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#passwordInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#phoneNumberInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#phoneNumberInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#displayNameInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#imageUrlInput {
+    -fx-background-color: rgba(0, 0, 0, 0.10);
+}
+
+#registerButton {
+    -fx-background-color: #ff7f6d;
+    -fx-background-radius: 50px;
+}
